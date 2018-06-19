@@ -11,8 +11,9 @@ def dance
   sleep(0.1)
   puts "slide to the right"
   sleep(0.1)
-  puts "and kick""
+  puts "and kick"
   
+  beats_left_in_song=beats_left_in_song - 10
   
   
   
