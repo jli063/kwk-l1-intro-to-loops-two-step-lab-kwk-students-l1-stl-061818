@@ -7,7 +7,13 @@ def dance
     break
   end
   
-  puts ""
+  puts "slide to the left"
+  sleep(0.1)
+  puts "slide to the right"
+  sleep(0.1)
+  puts "and kick""
+  
+  
   
   
   
