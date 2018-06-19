@@ -15,6 +15,8 @@ def dance
   
   beats_left_in_song=beats_left_in_song - 10
   
+  puts "You have"
+  
   
   
   
