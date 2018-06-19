@@ -20,3 +20,5 @@ puts "You've completed #{moves_completed} moves. Don't listen to what they say. 
 end
 
 end
+
+cha_cha_slide
